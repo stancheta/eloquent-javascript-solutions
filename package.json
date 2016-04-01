@@ -1,0 +1,15 @@
+{
+  "name": "eloquent-javascript-solutions",
+  "version": "0.0.1",
+  "description": "",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven T Ancheta",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^2.5.3",
+    "eslint-config-google": "^0.4.0"
+  }
+}
